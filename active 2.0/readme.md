@@ -1,6 +1,5 @@
 # TinyScanner: A Simple Port Scanner
 
-## Overview
 
 ## Description
 
